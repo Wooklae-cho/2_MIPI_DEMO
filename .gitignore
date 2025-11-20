@@ -205,3 +205,15 @@ cython_debug/
 marimo/_static/
 marimo/_lsp/
 __marimo__/
+
+# Project-specific
+# Archive files
+*.zip
+
+# Logs
+logs/
+
+# Personal configuration files with secrets
+.gemini/
+.mcp.json
+.Demo_SFR_Setting.json
